@@ -2,6 +2,7 @@
 
 (Reinterpret as correct for windows, not that I know this even is a bug there...)
 Prior installation: libc++, clang-3.8 as the default compiler
+(there are binaries in this, but you probably want to compile your own)
 
 1. create a new C++ project in Unreal Engine named MyProject. (or if you choose a different name, rename all the parts in the folder MyProject)
 
