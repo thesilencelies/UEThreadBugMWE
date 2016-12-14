@@ -20,5 +20,6 @@ Prior installation: libc++, clang-3.8 as the default compiler
 
 8. watch as it gloriously crashes on exit from a benign thread in a shared library
 
+9. compare to running another executable with the lib by running TBMWE from ThirdParty/MWE/build
 
 Any ideas how to fix this??
