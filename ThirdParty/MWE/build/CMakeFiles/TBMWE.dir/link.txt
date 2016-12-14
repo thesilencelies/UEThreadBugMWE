@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -stdlib=libc++  -lc++abi CMakeFiles/TBMWE.dir/threadBugMWE.cpp.o  -o TBMWE -rdynamic libSimpleThreadHolder.so -lpthread -Wl,-rpath,/home/stephen-lilico/Documents/UnrealProjects/MyProject/ThirdParty/MWE/build 

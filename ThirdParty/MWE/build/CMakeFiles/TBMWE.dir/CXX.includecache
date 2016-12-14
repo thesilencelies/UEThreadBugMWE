@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/stephen-lilico/Documents/UnrealProjects/MyProject/ThirdParty/MWE/SimpleThreadHolder.h
+thread
+-
+string
+-
+
+/home/stephen-lilico/Documents/UnrealProjects/MyProject/ThirdParty/MWE/threadBugMWE.cpp
+SimpleThreadHolder.h
+/home/stephen-lilico/Documents/UnrealProjects/MyProject/ThirdParty/MWE/SimpleThreadHolder.h
+iostream
+-
+

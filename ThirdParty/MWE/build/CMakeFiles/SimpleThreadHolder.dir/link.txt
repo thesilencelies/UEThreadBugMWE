@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -std=c++11 -stdlib=libc++  -shared -Wl,-soname,libSimpleThreadHolder.so -o libSimpleThreadHolder.so CMakeFiles/SimpleThreadHolder.dir/SimpleThreadHolder.cpp.o -lpthread 
